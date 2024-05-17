@@ -1,10 +1,14 @@
-About me
 CV
+About me
 Skills
 Tools
 Courses
 Examples of my work
 Bug reports and work in Jira
+
+CV
+You can download my CV as a PDF from my Google Drive.
+https://drive.google.com/file/d/1FDZkaaBtv7bPFSoK3JtNoGrSvi9MjPGR/view?usp=sharing
 
 About me
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
@@ -15,9 +19,7 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
-CV
-You can download my CV as a PDF from my Google Drive.
-https://drive.google.com/file/d/1FDZkaaBtv7bPFSoK3JtNoGrSvi9MjPGR/view?usp=sharing
+
 
 Skills
 You can find examples of the described skills in the Examples of my work section.
