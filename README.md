@@ -1,4 +1,9 @@
-# 💫 About Me:
+# About Me <br>
+## CV <br>
+## Manual Testing
+
+
+#  About Me:
 
 I am an optimistic person who can handle tough situations with a positive attitude <br>
 I got my Master's degree from St. Joseph's College(2019-2021) and my Bachelor's degree(2016-2019) also in St. Joseph's <br>
@@ -12,7 +17,7 @@ https://drive.google.com/file/d/1FDZkaaBtv7bPFSoK3JtNoGrSvi9MjPGR/view?usp=shari
 
 # Skills
 
-## Manual testing
+## Manual Testing
 
 Can perform manual, functional, and usability testing of web applications and gained hands-on experience by testing applications created for educational purposes Test analysis & design 
 familiar with the functional decomposition of products, creating state transition diagrams, and writing use cases that can apply equivalence partitioning, boundary value analysis, and decision table technique
