@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 CV 
-You can download my CV as a PDF from my Google Drive 
+You can download my CV as a PDF from my Google Drive <br></br>
 https://drive.google.com/file/d/1FDZkaaBtv7bPFSoK3JtNoGrSvi9MjPGR/view?usp=sharing
 
 About me, I am an optimistic person who can handle tough situations without any trouble
