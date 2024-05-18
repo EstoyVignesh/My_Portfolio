@@ -62,5 +62,5 @@ know how to create bug reports able to create projects and track their progress
 Knowing how to create job in Jenkins and run the test case can Automate test cases by using scheduled timings
 
 
-## 🌐 Socials:
+## 🌐 Socials: LinkedIn
 (https://www.linkedin.com/in/vignesh-p-a52b501b8/overlay/contact-info/)
