@@ -1,76 +1,52 @@
+# 💫 About Me:
 
-CV
-You can download my CV as a PDF from my Google Drive
-https://drive.google.com/file/d/1FDZkaaBtv7bPFSoK3JtNoGrSvi9MjPGR/view?usp=sharing
-
-About me
-I am a optimistic person who can handle tough situations withot any trouble
-
+I am an optimistic person who can handle tough situations with a positive attitude 
 I got my Master's degree from St. Joseph's College(2019-2021) and my Bachelor's degree(2016-2019) in the same college too
-
-For 2 years I struggled to choose a pat. And later I found my passion in Software testing and thus I decided to walk in that path. So I joined Java Automation Course in Guvi and have learned many thing and done projects in the testing field
-Now, I wish to impart my knowledge in testing the applications at the same time i want to learn more in the testing field to enrich myself with new concepts
-
+For 2 years, I struggled to choose a path. Later I found my passion in Software testing and thus I decided to walk in that path. So I joined Java Automation Course in Guvi and have learned many things and done projects in the testing field Now, 
+I wish to impart my knowledge in testing the applications at the same time i want to learn more in the testing field to enrich myself with new concepts
 If given the opportunity i would like to showcase my abilities and knowledge
 
-Skills
+##CV 
+You can download my CV as a PDF from my Google Drive <br></br>
+https://drive.google.com/file/d/1FDZkaaBtv7bPFSoK3JtNoGrSvi9MjPGR/view?usp=sharing
 
-Manual testing
+# Skills
 
-Can perform manual, functional and usability testing of web applications
-gained hands-on experience by testing applications created for educational purposes
-Test analysis & design
+## Manual testing
 
-familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-can apply equivalence partitioning, boundary value analysis and decision table technique
+Can perform manual, functional, and usability testing of web applications and gained hands-on experience by testing applications created for educational purposes Test analysis & design 
+familiar with the functional decomposition of products, creating state transition diagrams, and writing use cases that can apply equivalence partitioning, boundary value analysis, and decision table technique
 
-Automation Testing
+## Automation Testing
+                   
+Know how to use selenium to write test scripts and run the test cases experience in handling TestNG framework to run test cases by using various attributes like grouping, parameters, @test methods etc know Page Object Model(POM) to design patterns for the test cases can perform cross-browser testing, headless browser testing, and parallel testing
 
-Know how to use selenium to write test scripts and run the test cases
-experience in handling TestNG framework to run test cases by using various attributes like grouping, parameters, @test methods etc
-know Page Object Model(POM) to design pattern for the test cases
-can perform cross browser testinh, headless browser testing and parallel testing
+## API testing
 
-API testing
+know the difference between SOAP and REST APIs gained experience through manual testing of APIs created for educational purposes know how to manipulate requests and create test cases using the SoapUI tool
 
-know the difference between SOAP and REST APIs
-gained experience through manual testing of APIs created for educational purposes
-know how to manipulate requests and create test cases using the SoapUI tool
+## Exploratory testing
 
-Exploratory testing
+can create test cases and checklists and know-how and in which situations to use them effectively able to prepare comprehensive bug reports and provide detailed session reports
 
-can create test cases and checklists and know how and in which situations to use them effectively
-able to prepare comprehensive bug reports and provide detailed session reports
+## SQL Database
 
-SQL databases
+can write simple requests using subqueries know the difference between joins and unions and can use them in queries<br><br>
 
-can write simple requests using subqueries
-know the difference between joins and unions and can use them in queries
+## Java fundamentals
 
-Java fundamentals
+can write simple functions and algorithms know when to use and while able to comprehend easy codes<br><br>
 
-can write simple functions and algorithms
-know when to use for and while
-able to comprehend easy codes
+# TOOLS
 
-TOOLS
+## JIRA
 
-JIRA
+experience in working backlogs know how to create test cases and test suits able to run created test cases know how to use dashboards and statistics know how to create bug reports able to create projects and track their progress
 
-experience in working backlogs
-know how to create test cases and test suits
-able to run created test cases
-know how to use dashboards and statistics
-know how to create bug reports
-able to create projects and track their progress
+## Jenkins
 
-Jenkins
-
-Know how to create job in jenkins and run the test case
-can Automate test case by using schedule timings
+Knowing how to create job in Jenkins and run the test case can Automate test cases by using scheduled timings
 
 
-
-
-
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vignesh-palanisamy-a52b501b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQTBbQHstQbi1jqXN%2B%2FbMEA%3D%3D) 
