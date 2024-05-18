@@ -11,13 +11,14 @@ You can download my CV as a PDF from my Google Drive.
 https://drive.google.com/file/d/1FDZkaaBtv7bPFSoK3JtNoGrSvi9MjPGR/view?usp=sharing
 
 About me
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+I am a optimistic person who can handle tough situations withot any trouble.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I got my Master's degree from St. Joseph's College(2019-2021) and my Bachelor's degree(2016-2019) in the same college too.
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+For 2 years I struggled to choose a pat. And later I found my passion in Software testing and thus I decided to walk in that path. So I joined Java Automation Course in Guvi and have learned many thing and done projects in the testing field.
+Now, I wish to impart my knowledge in testing the applications at the same time i want to learn more in the testing field to enrich myself with new concepts.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+If given the opportunity i would like to showcase my abilities and knowledge
 
 
 
