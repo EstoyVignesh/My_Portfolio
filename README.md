@@ -6,9 +6,17 @@ For 2 years, I struggled to choose a path. Later I found my passion in Software 
 Now, I wish to impart my knowledge in testing the applications at the same time I want to learn more in the testing field to enrich myself with new concepts<br>
 If given the opportunity I would like to showcase my abilities and knowledge
 
-## CV <br></br>
+## CV 
 You can download my CV as a PDF from my Google Drive <br>
 https://drive.google.com/file/d/1FDZkaaBtv7bPFSoK3JtNoGrSvi9MjPGR/view?usp=sharing
+
+# Projects
+
+## Project 1: E-commerce Website
+https://github.com/EstoyVignesh/BestBuy-functional_Testing
+
+## Project 2: Spice-Jet Website
+https://github.com/EstoyVignesh/SpiceJet-Functional_Testing
 
 # Skills
 
