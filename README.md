@@ -13,8 +13,6 @@ Now, I wish to impart my knowledge in testing the applications at the same time 
 
 If given the opportunity i would like to showcase my abilities and knowledge
 
-
-
 Skills
 
 Manual testing
@@ -72,11 +70,6 @@ Know how to create job in jenkins and run the test case
 can Automate test case by using schedule timings
 
 
-
-
-
-know how to use Kanban boards and track project progress
-Mind maps & diagrams
 
 
 
