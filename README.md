@@ -6,7 +6,7 @@ For 2 years, I struggled to choose a path. Later I found my passion in Software 
 I wish to impart my knowledge in testing the applications at the same time i want to learn more in the testing field to enrich myself with new concepts
 If given the opportunity i would like to showcase my abilities and knowledge
 
-##CV 
+## CV <br></br>
 You can download my CV as a PDF from my Google Drive <br></br>
 https://drive.google.com/file/d/1FDZkaaBtv7bPFSoK3JtNoGrSvi9MjPGR/view?usp=sharing
 
