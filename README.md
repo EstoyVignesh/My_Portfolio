@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-I am an optimistic person who can handle tough situations with a positive attitude 
-I got my Master's degree from St. Joseph's College(2019-2021) and my Bachelor's degree(2016-2019) in the same college too
-For 2 years, I struggled to choose a path. Later I found my passion in Software testing and thus I decided to walk in that path. So I joined Java Automation Course in Guvi and have learned many things and done projects in the testing field Now, 
-I wish to impart my knowledge in testing the applications at the same time i want to learn more in the testing field to enrich myself with new concepts
+I am an optimistic person who can handle tough situations with a positive attitude <br>
+I got my Master's degree from St. Joseph's College(2019-2021) and my Bachelor's degree(2016-2019) also in St. Joseph's <br>
+For 2 years, I struggled to choose a path. Later I found my passion in Software testing and thus I decided to walk in that path. So I joined Java Automation Course in Guvi and have learned many things and done projects in the testing field <br> 
+Now,I wish to impart my knowledge in testing the applications at the same time i want to learn more in the testing field to enrich myself with new concepts<br>
 If given the opportunity i would like to showcase my abilities and knowledge
 
 ## CV <br></br>
