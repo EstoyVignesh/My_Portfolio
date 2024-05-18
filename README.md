@@ -49,4 +49,4 @@ Knowing how to create job in Jenkins and run the test case can Automate test cas
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vignesh-palanisamy-a52b501b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQTBbQHstQbi1jqXN%2B%2FbMEA%3D%3D) 
+(https://www.linkedin.com/in/vignesh-p-a52b501b8/overlay/contact-info/)
